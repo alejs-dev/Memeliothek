@@ -2,9 +2,9 @@
   "name": "memeliothek",
   "version": "1.0.0",
   "description": "sigma",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "start": "",
+    "start": "live-server",
     "test": "testcom"
   },
   "repository": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/alejs-dev/Memeliothek#readme",
   "dependencies": {
+    "live-server": "^1.2.2",
     "node": "^18.20.6"
   }
 }
