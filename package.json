@@ -1,0 +1,26 @@
+{
+  "name": "memeliothek",
+  "version": "1.0.0",
+  "description": "sigma",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "testcom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejs-dev/Memeliothek.git"
+  },
+  "keywords": [
+    "memeliothek"
+  ],
+  "author": "derAllerEchteSkibidiSigma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejs-dev/Memeliothek/issues"
+  },
+  "homepage": "https://github.com/alejs-dev/Memeliothek#readme",
+  "dependencies": {
+    "node": "^18.20.6"
+  }
+}
