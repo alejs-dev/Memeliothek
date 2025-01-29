@@ -4,6 +4,7 @@
   "description": "sigma",
   "main": "",
   "scripts": {
+    "build": "live-server",
     "start": "live-server",
     "test": "testcom"
   },
